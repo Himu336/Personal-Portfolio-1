@@ -1,5 +1,6 @@
 # Personal Portfolio 1
 
+<img src="https://github.com/Himu336/Personal-Portfolio-1/blob/main/Portfolio%20banner.png" alt="portfolio banner"/>
 Welcome to my personal portfolio repository! This project showcases my skills and projects in a simple and elegant manner.
 
 ## Table of Contents
