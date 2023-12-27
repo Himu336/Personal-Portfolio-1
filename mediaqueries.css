@@ -3,7 +3,7 @@
         height: 83vh;
         margin-bottom: 6rem;
     }
-    .about-conatiners {
+    .about-containers {
         flex-wrap: wrap;
     }
 }
@@ -19,7 +19,7 @@
     #experience, .experience-details-container {
         margin-top: 2rem;
     }
-    #profile, section-container {
+    #profile, .section-container {
         display: block;
     }
     .arrow {
@@ -36,12 +36,13 @@
         height: 275px;
         margin: 0 auto 2rem;
     }
-    .about-conatiners {
+    .about-containers {
         margin-top: 0;
     }
 }
 
-@media  and (max-width: 600px) {
+@media screen and (max-width: 600px) {
+
     #contact, footer {
         height: 40vh;
     }
@@ -56,13 +57,13 @@
         height: fit-content;
         margin-bottom: 2rem;
     }
-    .about-conatiners, contact-info-upper-container, .btn-container {
+    .about-containers, .contact-info-upper-container, .btn-container {
         flex-wrap: wrap;
     }
     .contact-info-container {
         margin: 0;
     }
-    .contact-info-container, .nav-links li a {
+    .contact-info-container p, .nav-links li a {
         font-size: 1rem;
     }
     .experience-sub-title {
@@ -90,7 +91,5 @@
     .text-container {
         text-align: justify;
     }
-
-
-    
+   
 }

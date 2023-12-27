@@ -328,7 +328,7 @@ project-title {
 
  /* Hamburger Menu */
  #hamburger-nav {
-    display:none;
+    display: none;
  }
 
  .hamburger-menu {
@@ -360,7 +360,7 @@ project-title {
     width: fit-content;
     max-height: 0;
     overflow: hidden;
-    transition: all 0,3 ease-in-out;
+    transition: all 0.3 ease-in-out;
  }
 
  .menu-links a {
@@ -375,6 +375,10 @@ project-title {
 
  .menu-links li {
     list-style: none;
+ }
+
+ .menu-links.open {
+    max-height: 300px;
  }
 
  .hamburger-icon.open span:first-child {
