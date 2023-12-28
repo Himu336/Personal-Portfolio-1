@@ -33,7 +33,7 @@ To get a copy of my portfolio up and running on your local machine, follow these
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-portfolio.git
+    git clone https://github.com/Himu336/Personal-Portfolio-1.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
