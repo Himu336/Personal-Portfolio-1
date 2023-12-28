@@ -1,6 +1,6 @@
 # Personal Portfolio 1
 
-<img src="https://github.com/Himu336/Personal-Portfolio-1/blob/main/Portfolio%20banner.png" alt="portfolio banner"/>
+<img src="https://github.com/Himu336/Personal-Portfolio-1/blob/main/pics/Banner%20for%20github%20demo.jpg"/>
 Welcome to my personal portfolio repository! This project showcases my skills and projects in a simple and elegant manner.
 
 ## Table of Contents
@@ -13,7 +13,7 @@ Welcome to my personal portfolio repository! This project showcases my skills an
 
 ## Demo
 
-You can view the live demo of my portfolio [here](#your-portfolio-live-url).
+You can view the live demo of my portfolio [here](https://personal-portfolio-1-nu.vercel.app/).
 
 ## Features
 
